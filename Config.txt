@@ -1,0 +1,5 @@
+# Output Directory
+C:\Users\PC\Desktop\admin\
+# Length of time CPU usage stats are taken over (in seconds)
+5
+
